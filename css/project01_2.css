@@ -1,0 +1,44 @@
+div {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.top-title {
+    text-align: center;
+}
+
+.main-box {
+    margin: 60px;
+    margin-top: 0px;
+    height: 50vh;
+    display:flex;
+    flex-wrap: nowrap;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.main-box-img {
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+
+.main-box-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.main-box-text  {
+    position: absolute;
+    top: 80px;
+    left: 60px;
+    font-size: 20px;
+    color: white;
+}
+
+.main-box-text .num1 {
+    text-align: center;
+}
