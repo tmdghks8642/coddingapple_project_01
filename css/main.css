@@ -73,7 +73,11 @@ body {
     bottom: 15vh;
 }
 .final-text i {
-    padding-left: 30px;
+    padding-left: 20px;
+    padding: 20px;
+    background-color: white;
+    color: blue;
+    border-radius: 50%;
 }
 
 @media screen and (max-width:1200px) {
